@@ -1,0 +1,24 @@
+.list-group-horizontal{
+    border:none;
+}
+
+
+.list-group-item{
+    border:none;
+   
+}
+.image{
+    justify-content:  center;
+    align-items: center;
+
+
+}
+.apply{
+    justify-content:  center;
+    align-items: center;
+    margin: 20px
+}
+
+.footer{
+    align-items: center;
+}
